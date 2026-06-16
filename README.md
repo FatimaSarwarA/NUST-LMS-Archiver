@@ -22,6 +22,8 @@ Turn a 10-hour manual chore into a 2-minute automated script. 🤖
 
 ## 🎥 See it in Action
 
+<img width="1280" height="720" alt="NUST-LMS-Archiver-2" src="https://github.com/user-attachments/assets/bc9b342d-f20c-4dbf-9570-5e01b6e31ce2" />
+
 
 
 ---
